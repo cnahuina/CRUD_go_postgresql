@@ -1,0 +1,6 @@
+hash: 514f7aaddb3580858c1e02eacc836cc8ce61211ab26cba5586bcd2890f7cc62e
+updated: 2020-02-24T18:29:13.782832-05:00
+imports:
+- name: github.com/lib/pq
+  version: 99274577be97ac9b1d95a2d61d566dc9b7cc6a54
+testImports: []
